@@ -1,7 +1,7 @@
 ---
 title: "MIAI Hubot Chair"
 description: "Welcome to the MIAI Hubot Chair research project website."
-layout: "homepage"
+layout: "main"
 ---
 
 ## Welcome to the MIAI Hubot Chair Project
