@@ -3,6 +3,9 @@ baseURL: "https://pellierd.github.io/miai-hubot-chair/"
 locale: "en-us"
 title: "MIAI Hubot Chair"
 
+# 👇 LA SEULE CORRECTION EST ICI
+publishDir: "docs"
+
 theme: "blowfish"
 themesDir: "themes"
 
@@ -32,5 +35,4 @@ params:
   mainSections: ["research", "posts"]
   enableSearch: true
   
-  # 👇 AJOUTEZ CETTE LIGNE ICI
   homepageLayout: "page"
