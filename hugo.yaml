@@ -6,7 +6,7 @@ title: "MIAI Hubot Chair"
 # Le nom du dossier de votre thème dans /themes
 theme: "blowfish"
 
-# Configuration des menus (adaptée pour Blowfish avec pageRef)
+# Configuration des menus
 menu:
   main:
     - name: "Home"
@@ -19,12 +19,17 @@ menu:
       pageRef: "/about"
       weight: 30
 
-# Paramètres spécifiques au projet et à Blowfish
+# Paramètres spécifiques à Blowfish (Corrigés)
 params:
   description: "MIAI Hubot Chair Research Project Website"
-  author: "Damien Pellier / MIAI Hubot Chair Team"
+  
+  # Structure attendue par Blowfish pour l'auteur :
+  author:
+    name: "Damien Pellier"
+    image: "profile.jpg" # Optionnel, vous pourrez ajouter une photo dans static/ plus tard
+    bio: "MIAI Hubot Chair Team"
   
   # Options de style pour l'effet IA / Robotique
-  defaultAppearance: "dark" # Mode sombre par défaut
+  defaultAppearance: "dark"
   mainSections: ["research", "posts"]
   enableSearch: true
