@@ -1,2 +1,10 @@
-theme: jekyll-theme-minima
-title: MIAI HUBOT Chair
+theme: jekyll-theme-slate
+title: HUBOT Chair
+description: Human-Centered Programming by Demonstration for Collaborative Industrial Robotics
+url: "https://pellierd.github.io"
+baseurl: "/miai-hubot-chair"
+
+author:
+  name: MIAI Hubot Team
+  github: pellierd
+  email: damien.pellier@univ-grenoble-alpes.fr
