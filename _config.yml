@@ -8,10 +8,10 @@ description: >-
   Website for the MIAI Hubot Chaire project.
 
 # Configured with your custom domain name
-url: 'https://miai-hubot-chaire.io'
+url: 'https://pellierd.github.io'
 
 # As you are using a custom domain, the base url is set to empty
-baseurl: ''
+baseurl: '/miai-hubot-chaire.io'
 
 # Language and timezone configuration (Set to English)
 lang: en
