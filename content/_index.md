@@ -2,6 +2,7 @@
 title: "MIAI HUBOT Chair"
 description: "Human-Centered Programming by Demonstration for Collaborative Industrial Robotics"
 layout: "page"
+showAuthor: false
 ---
 
 # Welcome to the HUBOT Chair Website
