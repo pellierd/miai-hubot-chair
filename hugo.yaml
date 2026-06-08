@@ -1,0 +1,25 @@
+# Adresse de base pour GitHub Pages
+baseURL: "https://pellierd.github.io/miai-hubot-chair/"
+languageCode: "en-us"
+title: "MIAI Hubot Chair"
+
+# Le nom du dossier de votre thème dans /themes
+theme: "nom-de-votre-theme"
+
+# Configuration des menus
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 10
+    - name: "Research"
+      url: "/research/"
+      weight: 20
+    - name: "About"
+      url: "/about/"
+      weight: 30
+
+# Paramètres spécifiques au projet
+params:
+  description: "MIAI Hubot Chair Research Project Website"
+  author: "Damien Pellier / MIAI Hubot Chair Team"
