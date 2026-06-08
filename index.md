@@ -9,7 +9,12 @@ title: Home
 
 ---
 
-### [Home](index.html) | [Publications](publications.html) | [Videos](videos.html) | [Contact](contact.html)
+<p align="center">
+  <a href="index.html" style="padding: 8px 16px; background: #333; color: #fff; border-radius: 4px; text-decoration: none; margin: 5px;">🏠 Home</a>
+  <a href="publications.html" style="padding: 8px 16px; background: #333; color: #fff; border-radius: 4px; text-decoration: none; margin: 5px;">📚 Publications</a>
+  <a href="videos.html" style="padding: 8px 16px; background: #333; color: #fff; border-radius: 4px; text-decoration: none; margin: 5px;">🎬 Videos</a>
+  <a href="contact.html" style="padding: 8px 16px; background: #333; color: #fff; border-radius: 4px; text-decoration: none; margin: 5px;">📬 Contact</a>
+</p>
 
 ---
 
