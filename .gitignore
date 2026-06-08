@@ -1,0 +1,9 @@
+Plaintext
+# Dossiers de build (générés automatiquement)
+public/
+resources/_gen/
+.hugo_build.lock
+
+# Fichiers système
+.DS_Store
+Thumbs.db
