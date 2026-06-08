@@ -1,62 +1,10 @@
-#-------------------------------------------------------------------------------
-# Main Configuration for Chirpy Theme
-#-------------------------------------------------------------------------------
-
-title: MIAI Hubot Chaire
-tagline: Welcome to our Jekyll project website
-description: >-
-  Website for the MIAI Hubot Chaire project.
-
-# Configured with your custom domain name
+theme: jekyll-theme-cayman
+title: HUBOT Chair
+description: Human-Centered Programming by Demonstration for Collaborative Industrial Robotics
 url: 'https://pellierd.github.io'
-
-# As you are using a custom domain, the base url is set to empty
 baseurl: '/miai-hubot-chaire.io'
 
-# Language and timezone configuration (Set to English)
-lang: en
-timezone: Europe/Paris
-
-#-------------------------------------------------------------------------------
-# Author Information
-#-------------------------------------------------------------------------------
 author:
   name: MIAI Hubot Team
-  twitter: 
   github: pellierd
   email: damien.pellier@univ-grenoble-alpes.fr
-
-#-------------------------------------------------------------------------------
-# Chirpy Theme Settings
-#-------------------------------------------------------------------------------
-theme: jekyll-theme-cayman
-
-# Table of Contents and Avatar settings
-avatar: 'https://github.com/pellierd.png'
-toc: true
-comments:
-  active: false
-
-# Date format (US/UK style)
-date_format: '%b %d, %Y'
-
-#-------------------------------------------------------------------------------
-# Jekyll Plugins (Required for Chirpy)
-#-------------------------------------------------------------------------------
-plugins:
-  - jekyll-paginate
-  - jekyll-redirect-from
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-paginate: 10
-paginate_path: '/page:num'
-
-exclude:
-  - Dockerfile
-  - docker-compose.yml
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - tools/
