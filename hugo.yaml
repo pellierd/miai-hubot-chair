@@ -3,9 +3,8 @@ baseURL: "https://pellierd.github.io/miai-hubot-chair/"
 locale: "en-us"
 title: "MIAI Hubot Chair"
 
-# Le nom du dossier de votre thème dans /themes
 theme: "blowfish"
-themesDir: "themes" # <--- AJOUTÉ ICI pour corriger l'erreur sans installer Go
+themesDir: "themes"
 
 # Configuration des menus
 menu:
@@ -24,13 +23,14 @@ menu:
 params:
   description: "MIAI Hubot Chair Research Project Website"
   
-  # Structure attendue par Blowfish pour l'auteur :
   author:
     name: "Damien Pellier"
     image: "profile.jpg"
     bio: "MIAI Hubot Chair Team"
   
-  # Options de style pour l'effet IA / Robotique
   defaultAppearance: "dark"
   mainSections: ["research", "posts"]
   enableSearch: true
+  
+  # 👇 AJOUTEZ CETTE LIGNE ICI
+  homepageLayout: "page"
