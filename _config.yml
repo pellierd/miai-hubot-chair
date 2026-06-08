@@ -29,7 +29,7 @@ author:
 #-------------------------------------------------------------------------------
 # Chirpy Theme Settings
 #-------------------------------------------------------------------------------
-theme: jekyll-theme-chirpy
+theme: jekyll-theme-midnight
 
 # Table of Contents and Avatar settings
 avatar: 'https://github.com/pellierd.png'
