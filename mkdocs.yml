@@ -1,7 +1,7 @@
-site_name: "Prof. Damien Pellier - Univ. Grenoble Alpes"
-site_description: Damien Pellier Homepage
+site_name: "Hubot MIAI Chair"
+site_description: Hubot MIAI Chair
 site_author: Damien Pellier
-site_url: https://exemple.com
+site_url: https://pellierd.github.io/miai-hubot-chair/
 copyright: Copyright © 2025 Damien Pellier
 
 theme:
