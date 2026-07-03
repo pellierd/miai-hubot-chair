@@ -1,8 +1,11 @@
-Plaintext
-# Dossiers de build (générés automatiquement)
-public/
-resources/_gen/
-.hugo_build.lock
+# Dossiers de build MkDocs (générés automatiquement)
+site/
+
+# Environnement virtuel Python
+venv/
+.venv/
+__pycache__/
+*.pyc
 
 # Fichiers système
 .DS_Store
