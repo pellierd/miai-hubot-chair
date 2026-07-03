@@ -44,9 +44,8 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Publications: https://cv.hal.science/pellier
-  - Demonstrations: https://www.youtube.com/channel/UC6oqhcs8tBPCo8RH4B_6OPA
-  - Softwares and Tools: research/softwares.md
-  - Supervising: research/supervising.md
-  - Open Positions: research/open-positions.md
-  - Contact: contact.md
+  - Publications: publications.md
+  - Demonstrations: https://www.youtube.com/channel/UC113NBWp7OLdrzpm0zoF3ow
+  - Softwares and Tools: softwares.md
+  - Supervising: supervising.md
+  - Open Positions: open-positions.md

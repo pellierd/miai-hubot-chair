@@ -1,78 +1,66 @@
+# MIAI Hubot Chair
+## Human-Centered Programming by Demonstration for Collaborative Industrial Robotics
 
-# Damien Pellier
+The HUBOT Chair is an innovative and interdisciplinary research project funded under the MIAI Cluster IA until **June 2030**. It aims to bridge fundamental AI research and industrial application by shifting how collaborative robots are programmed in the era of Industry 4.0.
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 2em;">
+---
 
-  <div style="flex: 1; min-width: 250px;">
-    <p>
-      <strong>Professor of Computer Science at <a href="https://www.univ-grenoble-alpes.fr">Université Grenoble Alpes</a></strong><br>
-      <strong><a href="http://www.liglab.fr/">Laboratory of Computer Science of Grenoble (LIG)</a></strong> – UMR 5217<br>
-      Head of the <a href="http://marvin.imag.fr">Marvin Research Team</a><br><br>
-      📍 IMAG Building – 700 avenue Centrale<br>
-      University Campus – 38401 St Martin d'Hères, France<br>
-      🏢 Office: 365<br>
-      📞 Phone: (+33) 4 57 42 15 39<br>
-      📧 <a href="mailto:damien.pellier@imag.fr">damien.pellier@imag.fr</a>
-    </p>
+## Chair Leadership & Contacts
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; min-width: 280px;">
+    <h3>Damien Pellier — Chair Holder</h3>
+    <ul>
+      <li><strong>Position:</strong> Professor of Computer Science, Université Grenoble Alpes</li>
+      <li><strong>Lab / Team:</strong> LIG (UMR 5217) — Head of Marvin Team</li>
+      <li><strong>Office:</strong> Room 365, IMAG Building, Grenoble</li>
+      <li><strong>Contact:</strong> +33 4 57 42 15 39 | damien.pellier@imag.fr</li>
+    </ul>
   </div>
-
-  <div style="flex: 0 0 auto; min-width: 180px;">
-    <img src="images/me.jpeg" alt="Portrait of Damien Pellier" style="max-width: 100%; height: auto; border-radius: 12px;">
+  <div style="flex: 0 0 auto; margin-left: 20px;">
+    <img src="images/me.jpeg" alt="Damien Pellier" style="width: 120px; height: auto; border-radius: 8px;">
   </div>
-
 </div>
 
 ---
 
-## 🔗 Quick Access
+### Flavien Paccot — Co-Chair
+* **Position:** Permanent Faculty, Université Clermont Auvergne
+* **Lab / Team:** Institut Pascal (UMR 6602 - UCA/CNRS) — CaVITI Team
+* **Affiliations:** Clermont Auvergne INP / CHU Clermont-Ferrand
+* **Location:** Institut Pascal, Clermont-Ferrand
+* **Contact:** +33 4 73 17 71 85 | flavien.paccot@uca.fr
 
-- 📄 [My Publications](https://cv.hal.science/pellier)
-- 🎥 [Demo Videos](https://www.youtube.com/channel/UC6oqhcs8tBPCo8RH4B_6OPA)
-- 🛠️ [Software & Tools](research/softwares)
-- 🎓 [Teaching](teaching/ai.md)
-- 🧑‍🔬 [Supervision](research/supervising.md)
-- ✉️ [Contact](contact.md)
 
----
+## 🧠 Project Overview & Objectives
 
-## 🎓 Academic Background
+In the context of Industry 4.0, reprogramming industrial robots remains a costly and complex task requiring expert intervention. Rigid, traditional programming approaches lack the agility needed for modern manufacturing environments characterized by high product variability.
 
-I am a Full Professor in Artificial Intelligence at [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr), conducting research within the [LIG Laboratory](http://www.liglab.fr/). I lead the [Marvin Team](http://marvin.imag.fr), which specializes in automated planning, machine learning, and robotics.
+The **HUBOT Chair** proposes an innovative framework based on **Programming by Demonstration (PbD)**, enabling non-expert operators to teach collaborative robots through intuitive kinesthetic, haptic, or visual interactions.
 
-From 2006 to 2013, I was an Associate Professor at Paris Descartes University, where I also served as Vice-President of the Board of Directors between 2011 and 2013.
+### Key Research Pillars:
+- **Neuro-Symbolic Learning:** Designing advanced learning algorithms capable of extracting and generalizing trajectories from a limited number of human demonstrations.
+- **Semantic Task Models:** Incorporating models that capture high-level task intentions, formal logic, and constraints (PDDL/HTN).
+- **Co-Manipulation Models:** Developing a novel co-manipulation framework that facilitates natural human-robot collaboration without requiring users to adapt to the robot.
+- **Cognitive Ergonomics & Health:** Investigating **acceptability, transparency, and comprehension** factors, leveraging medical and clinical insights for human operator well-being in industrial tasks.
 
----
-
-## 🧠 Research Interests
-
-My research lies at the intersection of **Artificial Intelligence**, with a particular focus on:
-
-- 🔧 **Automated Planning and Scheduling**
-- 🤖 **Autonomous Robotics**
-- 🧠 **Machine Learning**
-- 🧑‍💻 **Human-Robot Interaction**
-
-### 📌 Focus on Automated Planning
-
-Automated planning is a core area of AI concerned with generating sequences of actions to achieve specific goals from a given initial state. It is a critical component of intelligent systems such as robots, virtual assistants, and mission-critical applications.
-
-A classical planner typically receives:
-- a formal description of the **initial state**,
-- a **goal** specification,
-- and a set of available **actions** (often written in STRIPS or PDDL).
-
-The planner's task is to find a valid sequence of actions that transforms the initial state into one that satisfies the goal. Most classical planners assume discrete time, deterministic outcomes, and full observability.
+The ultimate goal of the HUBOT Chair is to produce a **human-centered, semantically aware robotic demonstrator**, marking a significant step toward intelligent, adaptive, and trustworthy robotics for the factories of the future.
 
 ---
 
-## 🤝 Collaborations & Supervision
+## 🤝 Partners & Academic Network
 
-I regularly supervise PhD students, postdoctoral researchers, and graduate projects. I am involved in several national and European research projects (ANR, H2020), focusing on explainable AI, robotics, and intelligent human-machine collaboration.
+The HUBOT Chair thrives on a strong ecosystem combining cutting-edge academic labs, medical institutions, and major industrial leaders:
+
+* **Academic & Institutional Partners:**
+  * [LIG - Laboratoire d'Informatique de Grenoble](http://www.liglab.fr/) (Marvin Team, Université Grenoble Alpes)
+  * [Institut Pascal](http://www.institutpascal.uca.fr/) (CaVITI Team, UMR 6602 - UCA/CNRS)
+* **Industrial Leaders:**
+  * Stäubli
+  * Kassow Robots
 
 ---
 
-## 📬 Contact
+## 📬 Join the Project / Contact
 
-Feel free to get in touch if you're interested in my work, looking for collaborations, or want to join the Marvin team.
-
----
+We are actively looking for talent, collaboration, and industrial use cases. If you are interested in joining the HUBOT project or have any inquiries regarding our automated planning and robotics framework, please feel free to reach out to either co-runner.
